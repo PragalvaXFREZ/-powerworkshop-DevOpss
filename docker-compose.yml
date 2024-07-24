@@ -1,6 +1,6 @@
 version: '3'
 services:
   web:
-    image: <your-dockerhub-username>/php-hello-world
+    image: pragalva/php-hello-world
     ports:
       - "80:80"
